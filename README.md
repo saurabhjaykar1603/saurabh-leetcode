@@ -11,6 +11,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
