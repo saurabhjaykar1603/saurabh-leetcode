@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0066-plus-one) |
 ## Hash Table
@@ -33,6 +34,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -45,5 +47,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
