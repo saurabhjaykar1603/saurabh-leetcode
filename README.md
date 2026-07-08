@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
