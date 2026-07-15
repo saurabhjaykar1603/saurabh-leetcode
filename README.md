@@ -58,4 +58,20 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0136-single-number) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
