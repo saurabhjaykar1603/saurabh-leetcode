@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0136-single-number) |
 ## Math
 |  |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0100-same-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhjaykar1603/saurabh-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
